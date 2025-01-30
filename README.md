@@ -10,3 +10,4 @@
 - [https://www.bilibili.com/video/BV1LEtHeEEik/](https://www.bilibili.com/video/BV1cx421f7vA)
 - [2024最新NestJS从入门到放弃](https://www.bilibili.com/video/BV1LEtHeEEik/)
 - [Nestjs从入门到实战全套教程完整版【100集】](https://www.bilibili.com/video/BV1vjB9YLEBw/)
+- [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
