@@ -11,3 +11,6 @@
 - [2024最新NestJS从入门到放弃](https://www.bilibili.com/video/BV1LEtHeEEik/)
 - [Nestjs从入门到实战全套教程完整版【100集】](https://www.bilibili.com/video/BV1vjB9YLEBw/)
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
+
+#### 文章
+- [9个NestJS企业级自定义装饰器，你知道几个？](https://juejin.cn/post/7444863675041726473)
