@@ -17,3 +17,7 @@
 - [Nest 实现接口多版本管理](https://juejin.cn/post/7379509948902473779)
 - [NestJS实战-产品需求规划](https://juejin.cn/post/7416499669629780009)
 - [Nest.js 中 TypeSafe 方案](https://juejin.cn/post/7385728319738216488)
+
+#### 开源
+- [nestia](https://github.com/samchon/nestia)
+- [nestjs-trpc](https://github.com/KevinEdry/nestjs-trpc)
