@@ -16,3 +16,4 @@
 - [9个NestJS企业级自定义装饰器，你知道几个？](https://juejin.cn/post/7444863675041726473)
 - [Nest 实现接口多版本管理](https://juejin.cn/post/7379509948902473779)
 - [NestJS实战-产品需求规划](https://juejin.cn/post/7416499669629780009)
+- [Nest.js 中 TypeSafe 方案](https://juejin.cn/post/7385728319738216488)
