@@ -13,6 +13,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [深入理解Nest.js的基础概念](https://juejin.cn/post/7484108431620931618)
 - [9个NestJS企业级自定义装饰器，你知道几个？](https://juejin.cn/post/7444863675041726473)
 - [Nest 实现接口多版本管理](https://juejin.cn/post/7379509948902473779)
 - [NestJS实战-产品需求规划](https://juejin.cn/post/7416499669629780009)
