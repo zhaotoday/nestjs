@@ -23,3 +23,4 @@
 #### 开源
 - [nestia](https://github.com/samchon/nestia)
 - [nestjs-trpc](https://github.com/KevinEdry/nestjs-trpc)
+- [enum-plus](https://github.com/shijistar/enum-plus)
