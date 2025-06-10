@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [Nestia：为NestJS注入超能力的辅助库](https://blog.csdn.net/gitblog_00624/article/details/142539296)
 - [NestJS入门秘籍](https://juejin.cn/post/7391746410188996608)
 - [前端接口编写的最佳实践总结：设计、实现、维护全流程](https://juejin.cn/post/7496345939968311296)
 - [深入理解Nest.js的基础概念](https://juejin.cn/post/7484108431620931618)
