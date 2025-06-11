@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [学习NestJS开发小程序后台（二）图片鉴黄](https://juejin.cn/post/7413255139891068963)
 - [Nest 接入消息队列 RabbitMQ](https://juejin.cn/post/7388488504055300132)
 - [Nest.js 实战 (十二)：优雅地使用事件发布/订阅模块 Event Emitter](https://juejin.cn/post/7412486655863291930)
 - [Nestia：为NestJS注入超能力的辅助库](https://blog.csdn.net/gitblog_00624/article/details/142539296)
