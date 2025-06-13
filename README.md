@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [使用Nestjs + ElasticSearch实现电商搜索功能](https://juejin.cn/post/7481114914100576308)
 - [学习NestJS开发小程序后台（二）图片鉴黄](https://juejin.cn/post/7413255139891068963)
 - [Nest 接入消息队列 RabbitMQ](https://juejin.cn/post/7388488504055300132)
 - [Nest.js 实战 (十二)：优雅地使用事件发布/订阅模块 Event Emitter](https://juejin.cn/post/7412486655863291930)
