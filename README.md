@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [从零入门 NestJS：构建你的第一个 REST API（十一）缓存机制与优化](https://juejin.cn/post/7504550493789470759)
 - [✍️【Node.js程序员】的数据库【索引优化】指南](https://juejin.cn/post/7514556093873209395)
 - [使用Nestjs + ElasticSearch实现电商搜索功能](https://juejin.cn/post/7481114914100576308)
 - [学习NestJS开发小程序后台（二）图片鉴黄](https://juejin.cn/post/7413255139891068963)
