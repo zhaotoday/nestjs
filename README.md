@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [什么是POJO、PO、DO、DTO、VO](https://juejin.cn/post/7520093724987441203)
 - [TypeORM已过时？Drizzle ORM + Nest.js：下一代ORM的入门指南](https://juejin.cn/post/7501333880953864226)
 - [nestjs 全栈进阶--管道](https://juejin.cn/post/7396934542957871115)
 - [关于金融类项目前端CryptoJS加密](https://juejin.cn/post/7472314970219872265)
