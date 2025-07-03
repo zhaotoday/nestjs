@@ -36,6 +36,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nestjs-template](https://github.com/Saluki/nestjs-template)
 - [nestjs-boilerplate](https://github.com/brocoders/nestjs-boilerplate)
 - [nestia](https://github.com/samchon/nestia)
 - [nestjs-trpc](https://github.com/KevinEdry/nestjs-trpc)
