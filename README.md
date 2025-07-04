@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [Nest.js、gRPC 和 Emp.js 构建高性能的微前端和微服务架构-Server端](https://juejin.cn/post/7396325195046928435)
 - [9个NestJS企业级自定义装饰器，你知道几个？](https://juejin.cn/post/7444863675041726473)
 - [什么是POJO、PO、DO、DTO、VO](https://juejin.cn/post/7520093724987441203)
 - [TypeORM已过时？Drizzle ORM + Nest.js：下一代ORM的入门指南](https://juejin.cn/post/7501333880953864226)
