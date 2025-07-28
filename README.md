@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [DO，VO，DTO 傻傻分不清楚【名词解释篇】](https://juejin.cn/post/7530179277795442738)
 - [NestJS企业级登录注册如何做](https://juejin.cn/post/7497487688201240639)
 - [springboot＋vue接口加密：RSA+AES](https://zhuanlan.zhihu.com/p/609721257)
 - [前端接口加密：用Crypto-JS和JSEncrypt给你的数据穿上“防弹衣”](https://juejin.cn/post/7459285408360579099)
