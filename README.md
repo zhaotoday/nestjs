@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [NestJs 中如何实现 API 版本管理功能 ❓❓❓](https://juejin.cn/post/7443660247175151655)
 - [TS全栈需要了解 tRPC 的八个核心概念](https://juejin.cn/post/7294103091019563060)
 - [🚀使用 NestJS+TypeORM+MySQL+RBAC构建消息中心后台实战](https://juejin.cn/post/7491156546379726911)
 - [NestJS-bcrypt加密解密](https://juejin.cn/post/7501187644329705535)
