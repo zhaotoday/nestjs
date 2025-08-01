@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [🚀使用 NestJS+TypeORM+MySQL+RBAC构建消息中心后台实战](https://juejin.cn/post/7491156546379726911)
 - [NestJS-bcrypt加密解密](https://juejin.cn/post/7501187644329705535)
 - [NestJS 认证与授权：JWT、OAuth 和 RBAC 实现](https://juejin.cn/post/7453012951541989412)
 - [DO，VO，DTO 傻傻分不清楚【名词解释篇】](https://juejin.cn/post/7530179277795442738)
