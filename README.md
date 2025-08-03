@@ -50,6 +50,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [openapi-ts](https://github.com/hey-api/openapi-ts)
 - [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen)
 - [nestjs-message-center](https://github.com/leiguunjong/nestjs-message-center)
 - [nestjs/typescript-starter](https://github.com/nestjs/typescript-starter)
