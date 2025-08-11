@@ -51,6 +51,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nest-admin](https://github.com/buqiyuan/nest-admin)
 - [compression](https://github.com/expressjs/compression)
 - [openapi-ts](https://github.com/hey-api/openapi-ts)
 - [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen)
