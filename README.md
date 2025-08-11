@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [请放弃使用JPEG、PNG、GIF格式的图片！](https://juejin.cn/post/7503017777064362010)
 - [使用 openapi-typescript-codegen 自动生成 openapi 接口文档的 TypeScript 类型](https://juejin.cn/post/7505716846554578996)
 - [NestJs 中如何实现 API 版本管理功能 ❓❓❓](https://juejin.cn/post/7443660247175151655)
 - [TS全栈需要了解 tRPC 的八个核心概念](https://juejin.cn/post/7294103091019563060)
