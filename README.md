@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [Nestjs商城实战---基于双Token+ Redis的JWT认证方案实现无感刷新与安全防护](https://juejin.cn/post/7479057232074375222)
 - [请放弃使用JPEG、PNG、GIF格式的图片！](https://juejin.cn/post/7503017777064362010)
 - [使用 openapi-typescript-codegen 自动生成 openapi 接口文档的 TypeScript 类型](https://juejin.cn/post/7505716846554578996)
 - [NestJs 中如何实现 API 版本管理功能 ❓❓❓](https://juejin.cn/post/7443660247175151655)
