@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [NestJS-聊天数据库](https://juejin.cn/post/7533093968726786087)
 - [Nestjs商城实战---使用Minio和Nestjs实现文件存储](https://juejin.cn/post/7477412987210514432)
 - [Nestjs商城实战---基于双Token+ Redis的JWT认证方案实现无感刷新与安全防护](https://juejin.cn/post/7479057232074375222)
 - [请放弃使用JPEG、PNG、GIF格式的图片！](https://juejin.cn/post/7503017777064362010)
