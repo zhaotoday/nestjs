@@ -14,6 +14,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [使用Nest.js设计RBAC权限系统：分步指南](https://juejin.cn/post/7543890675855982601)
 - [API 设计：从基础到最佳实践](https://juejin.cn/post/7381348874466820146)
 - [NestJS + JWT ：打造全栈认证系统的最佳实践](https://juejin.cn/post/7494546904756715554)
 - [NestJS-聊天数据库](https://juejin.cn/post/7533093968726786087)
