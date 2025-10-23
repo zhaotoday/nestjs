@@ -77,3 +77,6 @@
 
 #### 竞品
 - [vona](https://github.com/vonajs/vona)
+
+#### 参考
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template)
