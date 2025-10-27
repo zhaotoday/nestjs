@@ -1,6 +1,7 @@
 #### 文档
 - [中文文档](http://nestjs.inode.club/)
 - [docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn)
+- [NestJS中文文档](https://nestjs.inode.club/)
 
 #### 视频
 - [NestJS后端入门教程](https://www.bilibili.com/cheese/play/ss13258)
