@@ -60,6 +60,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [orval](https://github.com/orval-labs/orval)
 - [capjs](https://capjs.js.org/)
 - [nestjs-zod](https://github.com/BenLorantfy/nestjs-zod)
 - [nestjs-minio](https://github.com/NestCrafts/nestjs-minio)
