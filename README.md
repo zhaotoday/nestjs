@@ -72,6 +72,7 @@
 - [nestjs-zod](https://github.com/BenLorantfy/nestjs-zod)
 - [nestjs-minio](https://github.com/NestCrafts/nestjs-minio)
 - [ibuy-portal-backend](https://github.com/SaebaRyoo/ibuy-portal-backend)
+- [nest-admin](https://github.com/taozhi1010/nest-admin)
 - [nest-admin](https://github.com/buqiyuan/nest-admin)
 - [compression](https://github.com/expressjs/compression)
 - [openapi-ts](https://github.com/hey-api/openapi-ts)
