@@ -62,6 +62,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)
 - [golevelup/nestjs](https://github.com/golevelup/nestjs)
 - [nestjs-sequelize-typescript](https://github.com/kentloog/nestjs-sequelize-typescript)
 - [nestjs-library-crud](https://github.com/woowabros/nestjs-library-crud)
