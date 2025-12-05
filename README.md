@@ -15,6 +15,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [【Nest.js 10】权限管理-登录认证JWT、权限划分](https://juejin.cn/post/7432318671827976232)
 - [历经4个月，基于 Tiptap 和 NestJs 打造一款 AI 驱动的智能文档协作平台 🚀🚀🚀](https://juejin.cn/post/7553165143376134195)
 - [使用orval自动拉取swagger文档并生成ts接口](https://juejin.cn/post/7550863992707121162)
 - [NestJS-classvalidator验证](https://juejin.cn/post/7501539411416170507)
