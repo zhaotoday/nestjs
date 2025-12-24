@@ -63,6 +63,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [eslint-plugin-nestjs-typed](https://github.com/darraghoriordan/eslint-plugin-nestjs-typed)
 - [homebridge-nest](https://github.com/chrisjshull/homebridge-nest)
 - [nest-keycloak-connect](https://github.com/ferrerojosh/nest-keycloak-connect)
 - [awesome-nest-boilerplate](https://github.com/NarHakobyan/awesome-nest-boilerplate)
