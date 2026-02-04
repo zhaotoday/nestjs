@@ -15,6 +15,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [2026 年，值得前端全栈尝试的 NestJS 技术栈组合 😍😍😍](https://juejin.cn/post/7597278451029639178)
 - [Node.js 编程实战：前后端结合 - 前端静态资源优化](https://juejin.cn/post/7592152708249976870)
 - [【Nest.js 10】权限管理-登录认证JWT、权限划分](https://juejin.cn/post/7432318671827976232)
 - [历经4个月，基于 Tiptap 和 NestJs 打造一款 AI 驱动的智能文档协作平台 🚀🚀🚀](https://juejin.cn/post/7553165143376134195)
