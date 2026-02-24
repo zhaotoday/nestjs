@@ -65,6 +65,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nestjs-project-template](https://github.com/lifefloating/nestjs-project-template)
 - [nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure)
 - [nestjs-session](https://github.com/iamolegga/nestjs-session)
 - [nestjs-boilerplate-microservice](https://github.com/0xb4lamx/nestjs-boilerplate-microservice)
