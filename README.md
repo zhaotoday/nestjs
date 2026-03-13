@@ -65,6 +65,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [MCP-Nest](https://github.com/rekog-labs/MCP-Nest)
 - [throttler](https://github.com/nestjs/throttler)
 - [nestjs-better-auth](https://github.com/ThallesP/nestjs-better-auth)
 - [nestjs-cls](https://github.com/Papooch/nestjs-cls)
