@@ -65,6 +65,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nestjs-json-api](https://github.com/klerick/nestjs-json-api)
 - [nestjs-paginate](https://github.com/ppetzold/nestjs-paginate)
 - [event-sourcing](https://github.com/ocoda/event-sourcing)
 - [nestjs-components](https://github.com/algoan/nestjs-components)
