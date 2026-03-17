@@ -66,6 +66,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nestjs-response](https://github.com/hodfords-solutions/nestjs-response)
 - [nestjs/passport](https://github.com/nestjs/passport)
 - [nestjs/jwt](https://github.com/nestjs/jwt)
 - [nestjs-json-api](https://github.com/klerick/nestjs-json-api)
