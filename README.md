@@ -68,6 +68,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [prime-nestjs](https://github.com/josephgoksu/prime-nestjs)
 - [nest-access-control](https://github.com/nestjsx/nest-access-control)
 - [ack-nestjs-boilerplate](https://github.com/andrechristikan/ack-nestjs-boilerplate)
 - [mikro-orm/nestjs](https://github.com/mikro-orm/nestjs)
