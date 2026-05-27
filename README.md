@@ -1,4 +1,5 @@
 #### 文档
+- [Nest 通关秘籍](https://github.com/QuarkGluonPlasma/nestjs-course-code)
 - [中文文档](http://nestjs.inode.club/)
 - [docs.nestjs.cn](https://github.com/nestcn/docs.nestjs.cn)
 - [NestJS中文文档](https://nestjs.inode.club/)
