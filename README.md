@@ -69,6 +69,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nestjs-prisma](https://github.com/notiz-dev/nestjs-prisma)
 - [nestjs-query](https://github.com/TriPSs/nestjs-query)
 - [nestjs-boilerplate](https://github.com/Vivify-Ideas/nestjs-boilerplate)
 - [prisma-nestjs-graphql](https://github.com/unlight/prisma-nestjs-graphql)
