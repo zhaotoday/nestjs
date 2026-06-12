@@ -16,6 +16,7 @@
 - [Node.js框架之Nest JS基础学习](https://www.bilibili.com/video/BV14fDGYUEip/)
 
 #### 文章
+- [NestJS 用了两年，我换了这个](https://juejin.cn/post/7609173867999936566)
 - [我用 NestJS + Vue3 + Prisma + PostgreSQL 打造了一个企业级 sass 多租户平台](https://juejin.cn/post/7586663700901298185)
 - [NestJS 集成 TypeORM 的最优解](https://juejin.cn/post/7611458841617924111)
 - [优雅，太优雅了，NestJS 🔥 实在是太优雅了！🚀🚀🚀](https://juejin.cn/post/7499152779736563750)
