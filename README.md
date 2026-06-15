@@ -71,6 +71,7 @@
 - [《NestJS智能体开发》（三）：向量数据库](https://juejin.cn/post/7471674813087006770)
 
 #### 开源
+- [nest-wxpay](https://github.com/jaques-tino/nest-wxpay)
 - [nestjs-doctor](https://github.com/RoloBits/nestjs-doctor)
 - [nest-auth-example](https://github.com/leosuncin/nest-auth-example)
 - [nestjs-prisma](https://github.com/notiz-dev/nestjs-prisma)
